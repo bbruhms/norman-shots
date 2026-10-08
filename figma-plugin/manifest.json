@@ -1,0 +1,11 @@
+{
+  "name": "Norman Shots",
+  "id": "norman-shots-local",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": ["https://raw.githubusercontent.com"]
+  }
+}
